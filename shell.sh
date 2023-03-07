@@ -8,4 +8,5 @@ echo "check out branch sh2"
 
 main add a
 
+main add b
 
